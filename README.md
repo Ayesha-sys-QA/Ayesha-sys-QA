@@ -11,6 +11,9 @@ I bring a strong attention to detail, clear documentation practices, and a passi
 - Agile / Scrum methodology  
 - Web application testing
 
+I'm currently open to QA opportunities (manual or automation), remote or in Switzerland.  
+Feel free to connect or review my test projects below.
+
 ## Contact
 - LinkedIn: [linkedin.com/in/aicha-moustatia-qa](https://www.linkedin.com/in/aicha-moustatia-qa)
 - GitHub: [github.com/Ayesha-sys-QA](https://github.com/Ayesha-sys-QA)
