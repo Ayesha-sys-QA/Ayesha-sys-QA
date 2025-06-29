@@ -1,16 +1,18 @@
-# 👩‍💻 Aicha Moustatia – QA Engineer | Digital Health | DBA Candidate
+# Aicha Moustatia – QA Engineer | Digital Health | DBA Candidate
 
-Hi, I’m Aicha, QA Engineer with 2+ years of hands-on experience in manual & automation testing (Selenium, Java, TestNG), and a background in healthcare project leadership.
+QA Engineer with 2+ years of experience in manual and automation testing (Selenium, Java, TestNG), and a strong background in healthcare and academic environments.
 
-🎯 Currently completing a DBA in Switzerland focused on AI & Cloud for Radiotherapy  
-🧪 Passionate about testing, compliance, and digital transformation  
-🌍 Open to remote or Swiss-based QA roles
+Currently pursuing a Doctorate in Business Administration (DBA) in Switzerland, with research focused on AI and cloud adoption in radiotherapy.
 
-## 🔧 Skills
-- Manual & Automation Testing | Selenium WebDriver | TestNG | Page Object Model  
-- Jira, GitHub, Postman, SQL (basic)  
-- Agile/Scrum | Healthtech | Academic Systems
+Open to QA or digital transformation roles, remote or hybrid, ideally within regulated sectors.
 
-## 📫 Let’s connect
-- [LinkedIn](https://www.linkedin.com/in/aicha-moustatia-qa/)  
-- GitHub: [Ayesha-sys-QA](https://github.com/Ayesha-sys-QA)
+## Core Skills
+- Functional & automated testing  
+- Selenium WebDriver | Java | TestNG | Postman | SQL (basic)  
+- Jira, GitHub, Confluence  
+- Agile methodologies  
+- Healthtech & academic systems
+
+## Contact
+- LinkedIn: [linkedin.com/in/aicha-moustatia-qa](https://www.linkedin.com/in/aicha-moustatia-qa)
+- GitHub: [github.com/Ayesha-sys-QA](https://github.com/Ayesha-sys-QA)
