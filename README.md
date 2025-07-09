@@ -1,20 +1,21 @@
-# Aicha Moustatia – QA Engineer | Manual & Automation Testing
+# 👩‍💻 Aicha Moustatia – QA Engineer | Manual & Automation Testing
 
-QA Engineer with 2+ years of experience in manual and automation testing using Selenium, Java, and TestNG. Skilled in test design, defect tracking, and quality assurance for web applications.
+QA Engineer with 2+ years of experience in manual and automation testing using **Selenium**, **Java**, and **TestNG**. I specialize in functional testing, test case design, defect tracking, and quality assurance for web applications in agile environments.
 
-I bring a strong attention to detail, clear documentation practices, and a passion for delivering reliable, well-tested software.
+🔍 I bring strong attention to detail, clear documentation practices, and a passion for delivering reliable, well-tested software.
 
-## Core Skills
-- Functional & automated testing  
-- Selenium WebDriver | Java | TestNG | Postman | SQL (basic)  
-- Jira, GitHub, Confluence  
-- Agile / Scrum methodology  
-- Web application testing
+## 🛠 Core Skills
+- Functional & Automated Testing  
+- **Selenium WebDriver** | **Java** | **TestNG** | **Postman** | **Basic SQL**
+- **Jira**, **GitHub**, **Confluence**
+- Agile / Scrum Methodology  
+- Web Application Testing
 
-I'm currently open to QA opportunities (manual or automation), remote or in Switzerland.  
-Feel free to connect or review my test projects below.
+## 🚀 Open To Opportunities
+I’m currently open to **QA roles** (manual or automation), **remote or based in Switzerland**.  
+Feel free to connect or explore my featured test projects below.
 
-## Contact
-- LinkedIn: [linkedin.com/in/aicha-moustatia-qa](https://www.linkedin.com/in/aicha-moustatia-qa)
-- GitHub: [github.com/Ayesha-sys-QA](https://github.com/Ayesha-sys-QA)
+## 📬 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/aicha-moustatia-qa)  
+- 💻 [GitHub](https://github.com/Ayesha-sys-QA)
 
