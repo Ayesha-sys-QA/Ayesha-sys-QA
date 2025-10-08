@@ -14,14 +14,14 @@ API Testing: Postman, RestAssured
 
 Database Testing: MySQL, JDBC
 
-Test Management: Jira, Zephyr, Confluence, GitHub
+Test Management: Jira, Confluence, GitHub
 
 Practices: Agile / Scrum, Regression, Smoke & Functional Testing
 
 🚀 Open To Opportunities
 
 Open to QA Automation / SDET roles — remote or global, with flexible time zones.
-EU Citizen (France) 🇪🇺 – eligible for European and Swiss employment.
+EU Citizen (France) 🇪🇺 
 
 📬 Contact
 
