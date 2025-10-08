@@ -21,7 +21,7 @@ Practices: Agile / Scrum, Regression, Smoke & Functional Testing
 🚀 Open To Opportunities
 
 Open to QA Automation / SDET roles — remote or global, with flexible time zones.
-EU Citizen (France) 🇪🇺 
+EU Citizen (France) 🇪🇺.
 
 📬 Contact
 
