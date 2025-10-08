@@ -1,21 +1,33 @@
-# 👩‍💻 Aicha Moustatia – QA Engineer | Manual & Automation Testing
+Aicha Moustatia – SDET | QA Automation & AI Testing Engineer
 
-QA Engineer with 2+ years of experience in manual and automation testing using **Selenium**, **Java**, and **TestNG**. I specialize in functional testing, test case design, defect tracking, and quality assurance for web applications in agile environments.
+QA Engineer with 5+ years of experience in manual and automation testing across banking, healthcare, and education domains.
+Proficient in building scalable automation frameworks using Java, Selenium, TestNG, and Cucumber, and integrating them with Jenkins CI/CD pipelines.
+Currently exploring AI-assisted testing to improve coverage, defect prediction, and test data generation.
 
-🔍 I bring strong attention to detail, clear documentation practices, and a passion for delivering reliable, well-tested software.
+🔍 Passionate about transforming manual processes into smart, efficient, and reliable automation.
 
-## 🛠 Core Skills
-- Functional & Automated Testing  
-- **Selenium WebDriver** | **Java** | **TestNG** | **Postman** | **Basic SQL**
-- **Jira**, **GitHub**, **Confluence**
-- Agile / Scrum Methodology  
-- Web Application Testing
+🛠 Core Skills
 
-## 🚀 Open To Opportunities
-I’m currently open to **QA roles** (manual or automation), **remote or based in Switzerland**.  
-Feel free to connect or explore my featured test projects below.
+Test Automation: Java, Selenium WebDriver, TestNG, Cucumber, Jenkins
 
-## 📬 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/aicha-moustatia-qa)  
-- 💻 [GitHub](https://github.com/Ayesha-sys-QA)
+API Testing: Postman, RestAssured
+
+Database Testing: MySQL, JDBC
+
+Test Management: Jira, Zephyr, Confluence, GitHub
+
+Practices: Agile / Scrum, Regression, Smoke & Functional Testing
+
+🚀 Open To Opportunities
+
+Open to QA Automation / SDET roles — remote or global, with flexible time zones.
+EU Citizen (France) 🇪🇺 – eligible for European and Swiss employment.
+
+📬 Contact
+
+💼 LinkedIn
+
+💻 GitHub
+
+✉️ amoustatia.angelini@gmail.com
 
