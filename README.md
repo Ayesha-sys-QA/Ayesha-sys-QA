@@ -2,7 +2,7 @@
 
 QA Automation Engineer with 5+ years of experience across banking, healthcare, and education domains.
 Specialized in test automation frameworks (Java, Selenium, TestNG, Cucumber) and continuous integration pipelines (Jenkins, GitHub Actions).
-Currently focusing on AI-assisted testing — applying machine learning for defect prediction, intelligent test case generation, and self-healing automation to enhance quality and speed.
+Currently focusing on AI-assisted testing, applying machine learning for defect prediction, intelligent test case generation, and self-healing automation to enhance quality and speed.
 
 🤖 Vision
 
