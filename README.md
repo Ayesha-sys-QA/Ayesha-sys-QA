@@ -1,28 +1,30 @@
 👩‍💻 AICHA MOUSTATIA – SDET | QA AUTOMATION & AI TESTING ENGINEER
 
-QA Engineer with 5+ years of experience delivering high-quality software across banking, healthcare, and education domains.
-Expert in automation framework design (Java, Selenium, TestNG, Cucumber) and CI/CD integration with Jenkins.
-Currently exploring AI-driven testing to enhance coverage, defect prediction, and intelligent test data generation.
+QA Automation Engineer with 5+ years of experience across banking, healthcare, and education domains.
+Specialized in test automation frameworks (Java, Selenium, TestNG, Cucumber) and continuous integration pipelines (Jenkins, GitHub Actions).
+Currently focusing on AI-assisted testing — applying machine learning for defect prediction, intelligent test case generation, and self-healing automation to enhance quality and speed.
 
-🔍 Passion
+🤖 Vision
 
-Transforming manual testing processes into smart, scalable, and data-driven automation that improves reliability and speed.
+Building a bridge between traditional QA and next-generation AI testing, driving smarter validation and faster feedback cycles.
 
 🛠 Core Skills
 
-Test Automation: Java · Selenium WebDriver · TestNG · Cucumber · Jenkins
+Automation: Java · Selenium WebDriver · TestNG · Cucumber · Jenkins
+
+AI & Smart Testing: Model-based testing · Defect prediction · Test data generation
 
 API Testing: Postman · RestAssured
 
-Database Testing: MySQL · JDBC
+Database: MySQL · JDBC
 
-Test Management: Jira · GitHub
+Tools: Jira · Confluence · GitHub
 
-QA Practices: Agile/Scrum · Regression · Smoke · Functional Testing
+Practices: Agile/Scrum · Regression · Smoke · Functional Testing
 
 🚀 Open to Opportunities
 
-QA Automation / SDET roles · Remote or Global · Flexible time zones
+QA Automation / AI-Driven Testing / SDET roles · Remote or Global · Flexible time zones
 EU Citizen (France) 🇪🇺
 
 📬 Contact
