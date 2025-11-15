@@ -1,4 +1,4 @@
-# 👩‍💻 AICHA MOUSTATIA — SDET | QA AUTOMATION & AI-ASSISTED TESTING
+# AICHA MOUSTATIA - SDET | QA AUTOMATION & AI-ASSISTED TESTING
 
 QA Automation Engineer with 5+ years of experience across banking, healthcare, and education domains. 
 Specialized in test automation frameworks (Java, Selenium, TestNG, Cucumber) and CI/CD pipelines (Jenkins, GitHub Actions). 
