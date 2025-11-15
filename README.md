@@ -1,37 +1,58 @@
-👩‍💻 AICHA MOUSTATIA – SDET | QA AUTOMATION & AI TESTING ENGINEER
+# 👩‍💻 AICHA MOUSTATIA — SDET | QA AUTOMATION & AI-ASSISTED TESTING
 
-QA Automation Engineer with 5+ years of experience across banking, healthcare, and education domains.
-Specialized in test automation frameworks (Java, Selenium, TestNG, Cucumber) and continuous integration pipelines (Jenkins, GitHub Actions).
-Currently focusing on AI-assisted testing, applying machine learning for defect prediction, intelligent test case generation, and self-healing automation to enhance quality and speed.
+QA Automation Engineer with 5+ years of experience across banking, healthcare, and education domains. 
+Specialized in test automation frameworks (Java, Selenium, TestNG, Cucumber) and CI/CD pipelines (Jenkins, GitHub Actions). 
+Currently focusing on **AI-assisted testing**, including intelligent test case generation, defect prediction, and self-healing automation.
 
-🤖 Vision
+I combine strong engineering foundations with digital health experience to deliver robust, scalable, and reliable testing solutions.
 
-Building a bridge between traditional QA and next-generation AI testing, driving smarter validation and faster feedback cycles.
+---
 
-🛠 Core Skills
+## 🔭 Vision
+Building a bridge between **traditional QA** and **next-generation AI testing** to achieve smarter validation, faster feedback cycles, and continuous product reliability.
 
-Automation: Java · Selenium WebDriver · TestNG · Cucumber · Jenkins
+---
 
-AI & Smart Testing: Model-based testing · Defect prediction · Test data generation
+## 🧩 Core Skills
 
-API Testing: Postman · RestAssured
+### 🔹 Automation
+- Java • Selenium WebDriver • TestNG • Cucumber • Maven  
+- Page Object Model (POM) • Hybrid & Data-Driven Frameworks  
 
-Database: MySQL · JDBC
+### 🔹 AI & Smart Testing
+- Test case generation (GenAI)  
+- Defect prediction  
+- Model-based testing  
+- Self-healing automation scripts  
 
-Tools: Jira · Confluence · GitHub
+### 🔹 API Testing
+- Postman • RestAssured  
+- Functional, regression, and contract testing  
 
-Practices: Agile/Scrum · Regression · Smoke · Functional Testing
+### 🔹 Databases
+- MySQL • JDBC  
 
-🚀 Open to Opportunities
+### 🔹 Tools
+- Jira • Confluence • GitHub • Jenkins • VS Code  
+- TestRigor • DeepSeek • Ollama • Docker  
 
-QA Automation / AI-Driven Testing / SDET roles · Remote or Global · Flexible time zones
-EU Citizen (France) 🇪🇺
+---
 
-📬 Contact
+## 🌐 Professional Interests
+- HealthTech & MedTech QA  
+- AI-driven quality engineering  
+- Digital transformation in healthcare systems  
+- Medical software validation & safety standards  
 
-LinkedIn: linkedin.com/in/aicha-moustatia-qa
+---
 
-GitHub: github.com/Ayesha-sys-QA
+## 🚀 Current Public Projects
+- **API_Testing_Framework** — Lightweight API automation using RestAssured  
+- **GenAI_Test_Automation** — Experimental AI-powered testing with TestRigor, DeepSeek & Ollama  
+- **QA_Automation_Framework** — Java + Selenium + TestNG hybrid framework  
 
-Email: amoustatia.angelini@gmail.com
+---
 
+## 📫 Contact
+Open to opportunities in **remote or Swiss-based QA roles (SDET, Automation, AI Testing)**.  
+Feel free to connect or collaborate.
